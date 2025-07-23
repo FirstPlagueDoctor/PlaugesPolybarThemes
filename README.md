@@ -3,9 +3,9 @@
 
 ### *GETTING STARTED*
 
-**_In order to use the themes provided install poly-bar through: [https://github.com/polybar/polybar](https://github.com/url)_**
+**_In order to use the themes provided install poly-bar through: (https://github.com/polybar/polybar)_**
 
-**_Here is a guide for learning on how rofi works and what it does: [https://github.com/davatorium/rofi](url)_**
+**_Here is a guide for learning on how rofi works and what it does: (https://github.com/davatorium/rofi)_**
 
 _Or run this in terminal for **Ubuntu/Mint Users**:_
 
