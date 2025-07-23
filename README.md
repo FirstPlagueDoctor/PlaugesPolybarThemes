@@ -81,3 +81,10 @@ In order to close it just type in `killall polybar` this will close it
 
 **_Enjoy your new beautiful desktop topbar!_**
 
+### *THEMES:*
+
+**_Glacier Theme_**
+
+
+
+
