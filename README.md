@@ -3,8 +3,9 @@
 
 ### *GETTING STARTED*
 
-*_In order to use the themes provided install poly-bar through: [https://github.com/polybar/polybar](https://github.com/url)_
-*_Here is a guide for learning on how rofi works and what it does: [https://github.com/davatorium/rofi](url)_
+**_In order to use the themes provided install poly-bar through: [https://github.com/polybar/polybar](https://github.com/url)_**
+
+**_Here is a guide for learning on how rofi works and what it does: [https://github.com/davatorium/rofi](url)_**
 
 _Or run this in terminal for **Ubuntu/Mint Users**:_
 
@@ -34,11 +35,12 @@ Your Folders should look like this:
 Your new **polybar** will be located in **_/etc/polybar_**
 Under this folder you will see a **_config.ini_**
 
-*In order to locate **_.config_** You need to see your hidden folders use the shortcut: `CTRL+H` *
-In order for this custom theme to work you need to make a new path
+*In order to locate **_.config_** You need to see your hidden folders use the shortcut: `CTRL+H` *In order for this custom theme to work you need to make a new path*
 
 -Go to **_/home/.config_** 
+
 -Create a new folder called **"_polybar_"** 
+
 -You now should a new location it should look like: **_/home/.config/polybar_**
 
 **_Your path is all setup!_**
@@ -48,9 +50,13 @@ In order for this custom theme to work you need to make a new path
 *Depending on the distro the GNOME enviormental topbar will block polybar so delete it*_**
 
 -Delete everything inside **_/home/.config/polybar_** 
+
 -Open the zip file: [PlaguesPolybarThemes.zip](https://github.com/user-attachments/files/21393241/PlaguesPolybarThemes.zip)
+
 -Select which theme folder you want. Example: _**GlacierTheme**_
+
 -Then inside the folder select everything 
+
 -Paste it into the _**polybar**_ folder 
 
 You should have your custom theme! 
@@ -60,11 +66,17 @@ In order to close it just type in `killall polybar` this will close it
 ### *FINAL SETUP*
 
 -Open up `Startup Applications` in your Linux menu
+
 -Click on `ADD`
+
 -Name it **_polybar_** and inside command paste in
+
 -Make sure **_YOURLINUXUSER_** is replaced with whatever **_user_** you have in your file
+
 `/home/YOURLINUXUSER/.config/polybar/launch.sh`
+
 -Make sure it is toggled on
+
 -Reboot your pc
 
 **_Enjoy your new beautiful desktop topbar!_**
