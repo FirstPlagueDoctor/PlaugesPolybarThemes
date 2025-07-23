@@ -84,6 +84,11 @@ In order to close it just type in `killall polybar` this will close it
 ### *THEMES:*
 
 **_Glacier Theme_**
+<img width="1274" height="684" alt="Image" src="https://github.com/user-attachments/assets/ea2f279a-d6a4-4261-a914-69c2b4ca96f5" />
+
+
+<img width="1277" height="37" alt="Image" src="https://github.com/user-attachments/assets/750fbec1-7dca-4851-aa77-7658d18598d3" />
+
 
 
 
