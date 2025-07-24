@@ -89,7 +89,11 @@ In order to close it just type in `killall polybar` this will close it
 
 <img width="1277" height="37" alt="Image" src="https://github.com/user-attachments/assets/750fbec1-7dca-4851-aa77-7658d18598d3" />
 
+**_Cafe-Mocha Theme_**
 
+<img width="1274" height="684" alt="Image" src="https://github.com/user-attachments/assets/dd9ac58d-8632-4779-a1e8-78a0d641173c" />
+
+<img width="1277" height="37" alt="Image" src="https://github.com/user-attachments/assets/8f7184f5-d04b-446a-a625-700d9db97aeb" />
 
 
 
