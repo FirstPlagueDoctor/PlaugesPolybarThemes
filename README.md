@@ -20,9 +20,9 @@ sudo apt install rofi
 ```
 
 First, install the themes package by installing this zip: 
-[PlaguesPolybarThemes.zip](https://github.com/user-attachments/files/21417949/PlaguesPolybarThemes.zip)
+[PlaguesPolybarThemes.zip](https://github.com/user-attachments/files/21436160/PlaguesPolybarThemes.zip)
 
-Inside the [PlaguesPolybarThemes.zip](https://github.com/user-attachments/files/21417949/PlaguesPolybarThemes.zip) you should see folders inside with theme names select which theme you would like by clicking each folder and seeing the previews. Once you find a folder to your liking, select the folder and click the README file in order to recieve futher instruction for installing and setting up!
+Inside the [PlaguesPolybarThemes.zip](https://github.com/user-attachments/files/21436160/PlaguesPolybarThemes.zip) you should see folders inside with theme names select which theme you would like by clicking each folder and seeing the previews. Once you find a folder to your liking, select the folder and click the README file in order to recieve futher instruction for installing and setting up!
 
 Your Folders should look like this: 
 
@@ -51,7 +51,7 @@ Under this folder you will see a **_config.ini_**
 
 -Delete everything inside **_/home/.config/polybar_** 
 
--Open the zip file: [PlaguesPolybarThemes.zip](https://github.com/user-attachments/files/21417949/PlaguesPolybarThemes.zip)
+-Open the zip file: [PlaguesPolybarThemes.zip](https://github.com/user-attachments/files/21436160/PlaguesPolybarThemes.zip)
 
 -Select which theme folder you want. Example: _**GlacierTheme**_
 
