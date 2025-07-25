@@ -95,5 +95,11 @@ In order to close it just type in `killall polybar` this will close it
 
 <img width="1277" height="37" alt="Image" src="https://github.com/user-attachments/assets/8f7184f5-d04b-446a-a625-700d9db97aeb" />
 
+**_Cafe-Matcha Theme_**
+
+<img width="1274" height="684" alt="Image" src="https://github.com/user-attachments/assets/49c5dd61-95bd-433e-af02-a29987ce5aed" />
+
+<img width="1277" height="37" alt="Image" src="https://github.com/user-attachments/assets/48c11930-165e-44dd-865a-f8cbffa1f7c8" />
+
 
 
